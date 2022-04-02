@@ -1,1 +1,5 @@
-CONTRIBUTING.md
+101
+
+Фиксик раз
+
+CONTRIBUTING
